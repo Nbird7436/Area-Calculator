@@ -48,4 +48,4 @@ def triangle ():
     print (area)
 
 logo()
-AreaCalculator(
+AreaCalculator()
